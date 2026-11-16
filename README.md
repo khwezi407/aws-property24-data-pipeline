@@ -5,7 +5,7 @@ This project demonstrates a complete, end-to-end data engineering and analytics 
 
 **Real-world focus:** The main application targets **Property24**, a South African property listings portal, to analyze housing market trends in Gauteng.
 
-**🌐 Live dashboard:** http://property24bucket.s3-website-us-west-2.amazonaws.com/
+**🌐 Live dashboard:** http://namebucket.s3-website-us-west-2.amazonaws.com/
 
 ## 🗺️ Architecture Diagram
 ![Architecture Diagram](screenshots/01%20architecture-diagram.jpg)
